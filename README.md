@@ -1,4 +1,4 @@
-# Testimonial grid(https://img.shields.io/badge/Microverse-blueviolet)
+# Testimonial grid[](https://img.shields.io/badge/Microverse-blueviolet)
 
 > Description
 This project is an excerpt from Front-end mentors challenge. It involves using the concept of css grid to design a testimonial page of verified graduates.
